@@ -1,3 +1,5 @@
 <?php
 
-echo "Hello World!";
+echo "Hello Algoritmia8!";
+phpinfo();
+?>
